@@ -1,1 +1,4 @@
-# Quantum-CAT-By-Sarvesh-Kumar-Verma
+<h2>Quantum CAT By Sarvesh Kumar Verma</h2>
+
+<p>The <strong>Common Admission Test</strong> is a computer based test for admission in a graduate management program. <strong>Quantum CAT By Sarvesh Kumar Verma </strong>helps you to enhance and sharpen your preparation for <strong>CAT </strong>exam and is really an asset serve as a reliable source of information for those who plan to appear in various <strong>Competitive/Entrance Examinations</strong> and promotes exam awareness among aspirants and encourages them to rectify their weakness and build up their strength. The <strong>Study Material</strong> contains a series of tests that are accompanied by error free solutions, which a candidate can look into in order to get a clear idea on the lines on which he needs to keep himself prepared for the exam.</p>
+
